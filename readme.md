@@ -1,4 +1,4 @@
-# Awesome FNF Resources (WIP) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Friday Night Funkin' Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img src="img/FNF-Logo.svg" alt="Awesome FNF Resources Logo" width="500">
