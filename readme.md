@@ -224,4 +224,4 @@ Good resources should:
 - Be useful to modders, artists, musicians, charters, developers, or players.
 - Credit the original creator when possible.
 
-Please read the [contribution guidelines](contributing.md) before opening a pull request.
+Please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request.
