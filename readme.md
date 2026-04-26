@@ -60,22 +60,13 @@ Engines, forks, and builds used for playing or creating Friday Night Funkin' mod
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - FNF fork with input improvements, higher framerate support, and gameplay changes.
 - [ALE Psych](https://github.com/ALE-Psych-Crew/ALE-Psych) - FNF engine inspired by Psych Engine that focuses on softcoding, customization, scripting, and freedom.
 - [Nightmare Vision Engine](https://github.com/NMVTeam/NightmareVision) - Psych-based FNF engine with modchart support, camera rotation support, and HaxeFlixel source compilation setup.
-- [Leather Engine](https://github.com/Leather128/LeatherEngine) - FNF engine with broad keymode support and Polymod-based mod loading.
-- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - FNF engine fork with HScript modding support and localization features.
 - [Crow Engine](https://github.com/EyeDaleHim/Crow-Engine) - Base-game-focused engine fork with performance improvements and codebase cleanup.
 - [Super Engine](https://github.com/superpowers04/Super-Engine) - Kade-based engine fork with mod support and expanded features.
-- [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - Psych-based rewrite focused on customization and advanced scripting.
-- [Troll Engine](https://github.com/riconuts/troll-engine) - Psych Engine fork with HScript tooling and modchart-oriented features.
 
 ### Ports and Rewrites
 
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - LÖVE2D recreation of FNF with cross-platform build targets.
-- [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Godot rewrite of FNF used as the base for related spin-off projects.
-- [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - Python recreation of FNF focused on readability and iteration speed.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - Android-focused FNF fork with touch controls and mobile optimizations.
-- [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - iOS port of FNF for sideloaded device play.
-- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - PlayStation 1 style de-make of FNF in C/C++.
-- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - Lua rewrite of FNF centered on optimization and portability.
 - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - Modding-focused fork of Funkin' Rewritten with added quality-of-life features.
 - [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - Nintendo 3DS de-make built with LÖVEPOTION.
 
@@ -207,7 +198,14 @@ Older resources that may still be useful for reference, but should not be treate
 
 - [ARCHIVED](./ARCHIVED.md) - Legacy links to deprecated or out-of-date resources from previous versions of this list.
 - [Kade Engine](https://github.com/KadeDev/Kade-Engine) - Historic engine fork that is archived and mainly useful for legacy project reference.
-- [Forever Engine](https://github.com/Yoshubs/Forever-Engine) - Legacy engine rewrite that is no longer actively maintained.
+- [Leather Engine](https://github.com/Leather128/LeatherEngine) - Legacy FNF engine with broad keymode support and Polymod-based mod loading.
+- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - Legacy FNF engine fork with HScript modding support and localization features.
+- [Troll Engine](https://github.com/riconuts/troll-engine) - Legacy Psych Engine fork with HScript tooling and modchart-oriented features.
+- [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Legacy Godot rewrite of FNF used as the base for related spin-off projects.
+- [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - Legacy Python recreation of FNF focused on readability and iteration speed.
+- [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - Legacy iOS port of FNF for sideloaded device play.
+- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - Legacy PlayStation 1 style de-make of FNF in C/C++.
+- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - Legacy Lua rewrite of FNF centered on optimization and portability.
 - [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - Popular compile and modding guide primarily targeting older Funkin' versions.
 
 ## Contributing
