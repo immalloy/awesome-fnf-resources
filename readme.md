@@ -91,6 +91,7 @@ Resources for coding, scripting, compiling, or understanding how FNF works inter
 - [Funkin Compiler](https://thekade.net/funkin-cookbook/community/funkin-compiler-vscode-extension/) - VS Code extension for FNF Base Game mod development with Haxe autocomplete, static checking, JSON hints, and mod project tooling.
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - Setup tips for enabling practical debug tooling in VS Code.
 - [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) - VS Code extension that adds Psych Engine Lua autocomplete.
+- [FNF Source Code Bat File](https://gamebanana.com/tools/21856) - Batch-file helper for common FNF source code workflow steps.
 
 ### Scripting
 
@@ -128,8 +129,12 @@ Tools and guides for creating spritesheets, XML files, and texture atlases.
 - [Free Online Spritesheet Maker](https://www.leshylabs.com/apps/sstool/) - Web tool for building spritesheets and XML metadata files.
 - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite JSON exports to Sparrow XML format.
 - [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) - Utility for resizing Sparrow atlas PNG and XML pairs.
+- [TextureAtlas Toolbox](https://gamebanana.com/tools/16621) - Toolbox for working with FNF texture atlas assets.
+- [FNF Scratch XML Sprite Loader](https://gamebanana.com/tools/22091) - Loader utility for Scratch-style XML sprite workflows.
+- [FNF Spritesheet Optimizer HTML (PC/ANDROID)](https://gamebanana.com/tools/21860) - Browser-based spritesheet optimizer for PC and Android.
 - [oxipng](https://github.com/shssoichiro/oxipng) - PNG optimizer that can help reduce asset file sizes.
 - [compresspng](https://compresspng.com/) - Browser-based PNG compression tool for quick file size reductions.
+- [Funker Optimizer](https://gamebanana.com/tools/19963) - Optimizer tool for reducing and cleaning up FNF assets.
 - [Atlas Export Tutorial Video (PSYCH ENGINE IMPLEMENTATION)](https://twitter.com/MarkimusZer0/status/1681690825518903296?s=20) - Video walkthrough for exporting texture atlases for Psych Engine workflows.
 - [Atlas Character Tutorial (PSYCH ENGINE)](https://twitter.com/MarkimusZer0/status/1681691342349426689?s=20) - Follow-up tutorial for integrating texture atlases into Psych Engine characters.
 
@@ -172,6 +177,13 @@ Tools and guides for creating, editing, converting, and testing charts.
 - [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) - Converter for StepMania charts with BPM change support for FNF workflows.
 - [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) - Utility for converting FL Studio note data into FNF-compatible chart files.
 - [Modchart Editor](https://gamebanana.com/tools/10566) - Visual editor for creating and testing Psych Engine modcharts.
+- [FNF Json Chart files to Midi Converter](https://gamebanana.com/tools/22420) - Converts FNF JSON chart files into MIDI files.
+- [Codename Engine Chat to Midi Converter](https://gamebanana.com/tools/22234) - Converts Codename Engine chart data into MIDI files.
+- [OSU Mania to Funkin Tool](https://gamebanana.com/tools/21925) - Converter for bringing osu!mania charts into Funkin' format.
+- [FNF Yoshi Engine to Psych Chart Converter](https://gamebanana.com/tools/21654) - Converts Yoshi Engine charts for Psych Engine use.
+- [MidiSing - MIDI To FNF Chart tool](https://gamebanana.com/tools/20817) - Converts MIDI files into FNF chart data.
+- [FNF Chart Generator](https://gamebanana.com/tools/21018) - Generates FNF chart files from prepared inputs.
+- [FNF Chart Generator Portable](https://gamebanana.com/tools/21707) - Portable version of an FNF chart generation tool.
 
 ## Tools
 
@@ -179,7 +191,16 @@ Useful tools for managing files, testing mods, converting assets, or improving w
 
 ### Asset Tools
 
+- [Psych Engine to V-Slice Stage Converter](https://gamebanana.com/tools/22496) - Converts Psych Engine stage data for V-Slice projects.
+- [V-Slice Stage Editor Refreshed](https://gamebanana.com/tools/20697) - Stage editor utility for V-Slice workflows.
+- [Psych to Codename Character Converter](https://gamebanana.com/tools/22380) - Converts Psych Engine character data to Codename format.
+- [Psych To V-Slice Character Converter](https://gamebanana.com/tools/21889) - Converts Psych Engine character files to V-Slice format.
+- [FNF V-Slice to Psych Character Converter](https://gamebanana.com/tools/21640) - Converts V-Slice character files to Psych Engine format.
+- [V-Slice Character Editor V4](https://gamebanana.com/tools/20356) - Character editor for creating or updating V-Slice character data.
+
 ### Mod Management
+
+- [funkhub a FNF Mod Launcher and Manager](https://gamebanana.com/tools/22153) - Launcher and manager for organizing and running FNF mods.
 
 ### Debugging and Testing
 
